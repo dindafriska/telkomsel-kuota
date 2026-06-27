@@ -1,0 +1,7 @@
+# Sensitive data
+.telkomsel_session.json
+__pycache__/
+*.pyc
+
+# Config with phone number (keep your copy)
+config.json
